@@ -1,0 +1,5 @@
+[git add *] - it only shows the ones that have been added or modified, not deleted ones
+
+[git add -A] or [git add --a] - it stages all the changes inside the entire Project
+
+[git add .] - Only stages the current working directory
